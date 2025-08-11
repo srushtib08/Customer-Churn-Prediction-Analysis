@@ -1,13 +1,6 @@
-# Customer Churn Prediction and Analysis 😁😡  ![license](https://img.shields.io/github/license/Pegah-Ardehkhani/Customer-Churn-Prediction.svg) ![releases](https://img.shields.io/github/release/Pegah-Ardehkhani/Customer-Churn-Prediction.svg) <a href="https://colab.research.google.com/drive/14Qjd2CrysCLx4K95t-r_t8fRvXMjyDbj?usp=sharing" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> [![nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.org/github/Pegah-Ardehkhani/Customer-Churn-Prediction/blob/main/Telco%20Customer%20Churn%20Prediction%20and%20Analysis.ipynb)
+# Customer Churn Prediction and Analysis 
 
-> **`Note`**: Use [**nbviewer**](https://nbviewer.org/github/Pegah-Ardehkhani/Customer-Churn-Prediction/blob/main/Telco%20Customer%20Churn%20Prediction%20and%20Analysis.ipynb) (recommended) or google colab in order to view interactive plotly graphs. You can see all the codes and the outputs in nbviwer without running the whole code again.
-
-<p align="center">
-  <img width="600" height="300" src="https://blog.accessdevelopment.com/hs-fs/hubfs/magnet%20customers.gif?width=463&name=magnet%20customers.gif">
-</p>
-
-## Dataset 📔
-
+# Dataset 📔
 [Kaggle link: Telco Customer Churn](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
 
 [Github link: Telco Customer Churn](https://github.com/IBM/telco-customer-churn-on-icp4d/tree/master/data)
